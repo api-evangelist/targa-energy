@@ -1,0 +1,7 @@
+aid: targa-energy
+url: https://raw.githubusercontent.com/api-evangelist/targa-energy/refs/heads/main/apis.yml
+modified: '2026-03-24'
+apis: []
+common:
+  - type: Website
+    url: https://www.targa-energy.com
