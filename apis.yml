@@ -25,6 +25,12 @@ tags:
   - Midstream
   - Natural Gas
   - Natural Gas Liquids
+  - Oil and Gas
+tags_raw:
+  - Energy Infrastructure
+  - Midstream
+  - Natural Gas
+  - Natural Gas Liquids
   - Oil And Gas
 url: >-
   https://raw.githubusercontent.com/api-evangelist/targa-energy/refs/heads/main/apis.yml
