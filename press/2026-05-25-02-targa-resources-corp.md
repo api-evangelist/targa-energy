@@ -1,7 +1,9 @@
 ---
 title: TARGA RESOURCES CORP.
 url: https://www.sec.gov/Archives/edgar/data/1389170/000119312524073922/d783514dars.pdf
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Targa Energy" press release artificial intelligence'
 position: 2
 source: serpapi-google

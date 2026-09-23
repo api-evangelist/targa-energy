@@ -1,7 +1,9 @@
 ---
 title: Brandon Palomino, P.E., MBA - Nuclear Engineer
 url: https://www.linkedin.com/in/brandon-palomino-p-e-mba-16a6a2119
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Targa Energy" press release artificial intelligence'
 position: 3
 source: serpapi-google

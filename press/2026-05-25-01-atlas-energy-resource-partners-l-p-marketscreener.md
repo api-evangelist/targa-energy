@@ -1,7 +1,9 @@
 ---
 title: 'Atlas Energy : Resource Partners, L.P. | MarketScreener'
 url: https://www.marketscreener.com/quote/stock/TARGA-ENERGY-LP-30731/news/Atlas-Energy-Resource-Partners-L-P-Announces-Pricing-of-Class-D-Cumulative-Redeemable-Perpetua-19104180/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Targa Energy" press release artificial intelligence'
 position: 1
 source: serpapi-google
